@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LAA_DevTest/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/LAA_DevTest/static/js/main.822b866c.chunk.js",
+    "main.js.map": "/LAA_DevTest/static/js/main.822b866c.chunk.js.map",
+    "runtime-main.js": "/LAA_DevTest/static/js/runtime-main.e67aeaf6.js",
+    "runtime-main.js.map": "/LAA_DevTest/static/js/runtime-main.e67aeaf6.js.map",
+    "static/css/2.1ad56b46.chunk.css": "/LAA_DevTest/static/css/2.1ad56b46.chunk.css",
+    "static/js/2.aede2528.chunk.js": "/LAA_DevTest/static/js/2.aede2528.chunk.js",
+    "static/js/2.aede2528.chunk.js.map": "/LAA_DevTest/static/js/2.aede2528.chunk.js.map",
+    "static/js/3.4d847ce3.chunk.js": "/LAA_DevTest/static/js/3.4d847ce3.chunk.js",
+    "static/js/3.4d847ce3.chunk.js.map": "/LAA_DevTest/static/js/3.4d847ce3.chunk.js.map",
+    "index.html": "/LAA_DevTest/index.html",
+    "static/css/2.1ad56b46.chunk.css.map": "/LAA_DevTest/static/css/2.1ad56b46.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/LAA_DevTest/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.aede2528.chunk.js.LICENSE.txt": "/LAA_DevTest/static/js/2.aede2528.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e67aeaf6.js",
+    "static/css/2.1ad56b46.chunk.css",
+    "static/js/2.aede2528.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.822b866c.chunk.js"
+  ]
+}
